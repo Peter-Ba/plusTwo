@@ -1,0 +1,22 @@
+{
+  "name": "plustwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./plusTwo/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-Ba/plusTwo.git"
+  },
+  "keywords": [
+    "plustwo"
+  ],
+  "author": "Peter Baniuszewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peter-Ba/plusTwo/issues"
+  },
+  "homepage": "https://github.com/Peter-Ba/plusTwo#readme"
+}

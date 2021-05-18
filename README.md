@@ -1,3 +1,3 @@
 # plusTwo
 
-Adds the number two to any valid integer.
+Returns the addition of two to any given number.
